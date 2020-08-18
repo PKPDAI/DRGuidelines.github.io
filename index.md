@@ -27,7 +27,6 @@ The classification task consists on labelling PubMed documents as either **Relev
 
 ### Not Relevant
 
-
 1. No abstract, and the title does not come across as relevant – Please add a comment
 2. The abstract mentions:
 	PBPK / simulation
@@ -37,20 +36,8 @@ The classification task consists on labelling PubMed documents as either **Relev
 5. The abstract concerns glucose-insulin kinetics in non-diabetic and/or non-radiolabelled.
 6. If the abstract concerns the kinetics of an endogenous element e.g. Mn, Fe, Ca – that are not radiolabelled
 
-```
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-```
-For more details see [``` Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PKPDAI/DRGuidelines.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-```
 ### Support or Contact
 
 Having doubts about the annotation guidelines or would like to be involved? Please feel free to drop us a message at info@pkpdai.com
-```
-Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
