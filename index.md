@@ -39,5 +39,5 @@ The classification task consists on labelling PubMed documents as either **Relev
 
 ### Support or Contact
 
-Having doubts about the annotation guidelines or would like to be involved? Please feel free to drop us a message at info@pkpdai.com
+Having doubts about the annotation guidelines or would like to get involved? Please feel free to drop us a message at info@pkpdai.com
 
