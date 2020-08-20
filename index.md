@@ -1,4 +1,4 @@
-## Annotation Guidelines ss
+## Annotation Guidelines 
 
 The classification task consists on labelling PubMed documents as either **Relevant** or **Not Relevant** depending on whether _in_ _vivo_ pharmacokinetic (PK) parameters were estimated in that particular publication. To consider a particular publication as **Relevant** the estimated parameters might appear in either the abstract, tables or full-text. The following are the specific rules behind each label:
 
